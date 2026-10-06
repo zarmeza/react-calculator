@@ -6,7 +6,7 @@ A simple calculator app built using react
 
 ## Live Demo
 
-[Live Demo Link](https://react-calculator-elshaka.herokuapp.com)
+Not currently deployed. Run it locally with `npm install && npm start`.
 
 ## Built With
 
@@ -21,7 +21,7 @@ A simple calculator app built using react
 To get a local copy up and running follow these simple example steps.
 
 ### Setup
-    git clone https://github.com/elshaka/react-calculator
+    git clone https://github.com/zarmeza/react-calculator
     cd react-calculator
 ### Install
     npm install
@@ -37,6 +37,6 @@ To get a local copy up and running follow these simple example steps.
 
 👤 **Eleazar Meza**
 
-- Github: [@elshaka](https://github.com/elshaka)
-- Linkedin: [Eleazar Meza](https://www.linkedin.com/in/elshaka/)
-- Twitter: [@elshaka](https://twitter.com/elshaka)
+- Github: [@zarmeza](https://github.com/zarmeza)
+- Linkedin: [Eleazar Meza](https://www.linkedin.com/in/zarmeza/)
+- Twitter: [@zarmeza](https://twitter.com/zarmeza)
